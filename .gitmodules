@@ -1,7 +1,7 @@
 [submodule "Project-Course"]
 	path = Project-Course
 	url = https://github.com/Arjun-BD/Project-Course
-	branch = main
+	branch = master
 [submodule "Privacy-Attacks-on-GNNs"]
 	path = Privacy-Attacks-on-GNNs
 	url = https://github.com/Abhinav-Khot/Privacy-Attacks-on-GNNs
